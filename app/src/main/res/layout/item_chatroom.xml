@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/chatroomtxt"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:background="@drawable/chatroom_bubble"
+    android:fontFamily="sans-serif-medium"
+    android:text="TextView"
+    android:textAlignment="center"
+    android:textSize="25sp"
+    tools:layout_editor_absoluteX="50dp"
+    tools:layout_editor_absoluteY="20dp" />
